@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+.my-section {
+  width: 100%;
+}
+
+.my-section input {
+  width: 100%;
+}
+/*# sourceMappingURL=style.css.map */
